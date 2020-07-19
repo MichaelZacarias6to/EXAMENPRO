@@ -236,43 +236,43 @@ h2{
 }
 @media (min-width:767px) and (max-width:990px)
 {
-.colt1, .colt2, .colt3, .colt4, .colt5, .colt6,.colt7, .colt8, .colt9,.colt10, .colt11, .colt12 {
+.colp, .colp2, .colp3, .colp4, .colp5, .colp6,.colp7, .colp8, .colp9,.colp10, .colp11, .colp12 {
   float: left; 
 } 
-.colt1{
+.colp1{
+  width: 8.33%;
+}
+.colp2{
+  width: 16.66%;
+}
+.colp3{
+  width: 25%;
+}
+.colp4{
   width: 33.33%;
 }
-.colt2{
-  width: 33.33%;
-}
-.colt3{
-  width: 33.33%;
-}
-.colt4{
-  width: 33.33%;
-}
-.colt5{
+.colp5{
   width: 41.66%;
 }
-.colt6{
+.colp6{
   width: 50%;
 }
-.colt7{
+.colp7{
   width: 58.33%;
 }
-.colt8{
+.colp8{
   width: 66.66%;
 }
-.colt9{
+.colp9{
   width: 74.99%;
 }
-.colt10{
+.colp10{
   width: 83.33%;
 }
-.colt11{
+.colp11{
   width: 91.66%;
 }
-.colt12{
+.colp12{
   width: 100%;
 }
    
